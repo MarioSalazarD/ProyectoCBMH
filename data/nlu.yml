@@ -5,6 +5,7 @@ nlu:
   examples: |
     - hey
     - hola
+    - hola, mi nombre es [mario](name)
     - ey
     - buenos dias
     - que tal
