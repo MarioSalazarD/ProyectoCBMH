@@ -4,88 +4,81 @@ nlu:
 - intent: greet
   examples: |
     - hey
-    - hello
+    - hola
+    - ey
+    - buenos dias
+    - que tal
+    - holas
+    - buenas mañana
     - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
+    - buenas tardes
+    - buenas noches
     - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
 
 - intent: goodbye
   examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
+    - bie
     - bye
-    - goodbye
-    - have a nice day
-    - see you around
+    - byes
+    - nos vemos
+    - buenas noches
+    - hasta luego
+    - adios
+    - que tengas un buen dia 
+    - nos vemos
     - bye bye
-    - see you later
+    - hasta un rato
 
 - intent: affirm
   examples: |
+    - si
     - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - correcto
+    - afirmativo
+    - s
+    - estas en lo correcto
+    - siempre
 
 - intent: deny
   examples: |
     - no
     - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+    - nunca
+    - no lo creo
+    - no me gusta eso
+    - no hay forma
+    - jamas
 
 - intent: mood_great
   examples: |
-    - perfect
-    - great
+    - perfecto
+    - bien
+    - maravilloso
+    - espectacular
     - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
+    - estoy bien
+    - estoy perfecto
+    - estoy increible
+    - increible
+    - me encuentro muy bien
 
 - intent: mood_unhappy
   examples: |
     - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
+    - estoy triste
+    - no me siento muy bien
+    - Me encuentro decepsionado
+    - estoy decepsionado
+    - mal
+    - muy mal
+    - estoy muy triste
+    - triste
+    - no estoy bien
+    - no estoy feliz
 
 - intent: bot_challenge
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+    - eres un bot?
+    - estas vivo?
+    - estoy hablando con un bot?
+    - estoy hablando con una persona?
